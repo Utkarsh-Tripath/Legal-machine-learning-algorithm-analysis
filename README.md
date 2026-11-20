@@ -9,7 +9,7 @@ A collaborative 4-member project developed for **Review 3**, featuring Python sc
 | Member Name |  Reg. No. | 
 | :--- | :--- | 
 | **** | `[Reg. No.]` | 
-| **Member 2 Name** | `[Reg. No.]` | 
+| **Hiten** | RA2412707010006 | 
 | **Member 3 Name** | `[Reg. No.]` | 
 | **Atul Kumar Prajapati** | RA2412707010028 | 
 
