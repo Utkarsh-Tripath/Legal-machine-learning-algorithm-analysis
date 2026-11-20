@@ -6,7 +6,7 @@ A collaborative 4-member project developed for **Review 3**, featuring Python sc
 
 ## Team Members (4 Members)
 
-| Member Name | Roll / Reg. No. | Role & Responsibilities |
+| Member Name | Roll / Reg. No. | 
 | :--- | :--- | :--- |
 | **** | `[Reg. No.]` | 
 | **Member 2 Name** | `[Reg. No.]` | 
