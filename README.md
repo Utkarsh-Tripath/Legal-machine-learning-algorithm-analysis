@@ -10,7 +10,7 @@ A collaborative 4-member project developed for **Review 3**, featuring Python sc
 | :--- | :--- | 
 | **** | `[Reg. No.]` | 
 | **Hiten** | RA2412707010006 | 
-| ** Utkarsh Tripathi ** | RA2412707010009 | 
+| **Utkarsh Tripathi** | RA2412707010009 | 
 | **Atul Kumar Prajapati** | RA2412707010028 | 
 
 ---
